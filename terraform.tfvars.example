@@ -1,0 +1,7 @@
+ssh_username           = ""
+ssh_password           = ""
+ssh_public_key_path    = ""
+resource_location      = ""
+vm_size                = ""
+gitlab_root_password   = ""
+domain_name            = ""
